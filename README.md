@@ -3,6 +3,10 @@
 i have created a information type site where you get to know some information
 about the Indian states
 
+ site is live at https://red0x-106.github.io/EXPLORE-INDIA/
+
+ 
+
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/37c60955-025b-442a-9f01-41f639e544c7" />
 
 
