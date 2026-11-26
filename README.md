@@ -38,3 +38,9 @@ the thing tht i learnt was tht "we shlould save images properly and with proper 
 
 creating this site was kinda easy IG cuz i knew many things when to add wht the structure and the information, 
 it was like i already knew everything from the start.
+
+## ai-usage
+
+i used ai for getting the informations about the facts, food and oher raw facts.
+
+I also used it for image idea and the format that's it :)
